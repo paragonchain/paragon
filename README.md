@@ -5,7 +5,7 @@ Make sure that you have `golang` installed. Using Homebrew:
 
 ```
 brew update
-brew install goland
+brew install golang
 ```
 
 ### Installation
@@ -22,4 +22,4 @@ Running `init.sh` will do the following:
 
 After this, run `./start.sh` to start your node.
 
-*If you are having trouble running the scripts, make sure you set permissions by running `chmod +x <scriptname>.sh`
+*If you are having trouble running the scripts, make sure you set permissions by running `chmod +x <scriptname>.sh`*
