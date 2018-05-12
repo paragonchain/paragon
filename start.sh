@@ -1,1 +1,1 @@
-geth --networkid="7755" --datadir chain
+geth --networkid 7755 --datadir chain
